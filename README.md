@@ -4,7 +4,7 @@
 
   <img src="https://img.shields.io/badge/%E7%AB%A0%E8%8A%82-29-000?style=flat-square" alt="29 节">
   <img src="https://img.shields.io/badge/%E5%91%BD%E4%BB%A4-134-000?style=flat-square" alt="134 条命令">
-  <img src="https://img.shields.io/badge/%E5%BF%AB%E6%8D%B7%E9%94%AE-56-000?style=flat-square" alt="56 个快捷键">
+  <img src="https://img.shields.io/badge/%E5%BF%AB%E6%8D%B7%E9%94%AE-58-000?style=flat-square" alt="58 个快捷键">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-000?style=flat-square" alt="MIT License"></a>
 
   <br><br>
@@ -86,7 +86,7 @@
 | 内容 | 说明 |
 | --- | --- |
 | [命令速查](wiki/appendix/命令速查.md) | 134 条常用命令，按工具分组，含危险操作提示 |
-| [快捷键速查](wiki/appendix/快捷键.md) | 56 个快捷键，macOS 与 Windows 对照 |
+| [快捷键速查](wiki/appendix/快捷键.md) | 58 个快捷键，macOS / Windows / Linux 对照 |
 | [术语表](wiki/appendix/术语表.md) | 28 个术语的大白话解释 |
 | [开始之前](wiki/开始之前.md) | 环境准备、三个习惯、怎么读报错、怎么提问 |
 
