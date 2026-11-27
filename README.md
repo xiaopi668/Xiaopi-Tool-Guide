@@ -2,7 +2,7 @@
   <img src="pictures/banner.svg" alt="Xiaopi 工具指南" width="100%" />
   <br><br>
 
-  <img src="https://img.shields.io/badge/%E7%AB%A0%E8%8A%82-39-000?style=flat-square" alt="39 节">
+  <img src="https://img.shields.io/badge/%E7%AB%A0%E8%8A%82-35-000?style=flat-square" alt="35 节">
   <img src="https://img.shields.io/badge/%E5%91%BD%E4%BB%A4-136-000?style=flat-square" alt="136 条命令">
   <img src="https://img.shields.io/badge/%E5%BF%AB%E6%8D%B7%E9%94%AE-58-000?style=flat-square" alt="58 个快捷键">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-000?style=flat-square" alt="MIT License"></a>
@@ -17,9 +17,9 @@
 
 网上关于这些工具的资料并不少，但大多有两个问题：要么假设你已经会了，直接从「执行 xxx 命令」开始；要么把工具当成考试科目，讲一堆概念却不告诉你明天上班该怎么用。
 
-这份指南想做的事情很朴素：**把每个工具讲到你能立刻用起来**。每一节都从真实场景出发，给出可以直接复制的命令、真实会遇到的报错，以及出错之后怎么查。全篇 39 节，每节 10 到 18 分钟，可以按顺序读，也可以当成手册随时翻。
+这份指南想做的事情很朴素：**把每个工具讲到你能立刻用起来**。每一节都从真实场景出发，给出可以直接复制的命令、真实会遇到的报错，以及出错之后怎么查。全篇 35 节，每节 10 到 18 分钟，可以按顺序读，也可以当成手册随时翻。
 
-内容覆盖七条主线：
+内容覆盖六条主线：
 
 - **终端与系统**：命令是怎么回事、文件和目录、查找、管道、权限、进程与端口
 - **Git**：心智模型、第一次配置、日常三件套、分支、远程协作、冲突、撤销、提交规范
@@ -27,7 +27,6 @@
 - **开发环境**：Node 与 npm、Python 虚拟环境、浏览器开发者工具、Docker、SSH
 - **效率与排错**：别名与历史、9 类常见报错的解法、安全习惯、学习路线
 - **AI 编程助手**：Claude Code、Codex CLI、dsh，以及让 agent 干活的流程与安全边界
-- **AI 时代**：工具地图、提示词、核查方法、本地模型与 API 成本
 
 # 这份指南适合谁
 
@@ -41,7 +40,7 @@
 
 # 怎么用
 
-**路线一：从零开始，按顺序读。** 39 节大概需要 8 到 10 小时，建议每天 3 节。从 [第 1 节](wiki/terminal/01-终端-Shell-与一条命令的解剖.md) 开始，遇到不懂的术语先记下来，读到后面自然会懂。
+**路线一：从零开始，按顺序读。** 35 节大概需要 7 到 9 小时，建议每天 3 节。从 [第 1 节](wiki/terminal/01-终端-Shell-与一条命令的解剖.md) 开始，遇到不懂的术语先记下来，读到后面自然会懂。
 
 **路线二：带着问题查。** 直接跳到 [命令速查](wiki/appendix/命令速查.md) 或 [报错排查手册](wiki/efficiency/02-报错排查手册.md)，找到对应的条目。每节末尾都有「动手练一练」，建议真的在自己的电脑上跑一遍。
 
@@ -88,10 +87,6 @@
 | 33 | [dsh：DeepSeek Harness](wiki/agents/04-dsh-DeepSeek-Harness.md) | 12 分钟 | 基础 |
 | 34 | [让 agent 真正干活的流程](wiki/agents/05-让-agent-真正干活的流程.md) | 14 分钟 | 进阶 |
 | 35 | [权限、沙箱与安全](wiki/agents/06-权限-沙箱与安全.md) | 12 分钟 | 进阶 |
-| 36 | [AI 工具地图](wiki/ai/01-AI-工具地图.md) | 10 分钟 | 入门 |
-| 37 | [提示词：把需求说清楚](wiki/ai/02-提示词-把需求说清楚.md) | 12 分钟 | 基础 |
-| 38 | [用 AI 学习与查证](wiki/ai/03-用-AI-学习与查证.md) | 12 分钟 | 进阶 |
-| 39 | [本地模型与 API](wiki/ai/04-本地模型与-API.md) | 12 分钟 | 进阶 |
 
 ## 附录
 
